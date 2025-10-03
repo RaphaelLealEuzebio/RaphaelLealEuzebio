@@ -1,27 +1,16 @@
-
 # Olá! Me chamo Raphael Leal 🤖
-
-
 
 ## 🎓 Sobre mim
 
 Nasci em 1997, em uma epoca onde a tecnologia e o mundo era outro rs, cresci no interior de São Paulo no meio do mato, e por me interessar em tecnologia, fisica, matematica e todo o mundo Geek, achei melhor vir mais para o centro de SP, aqui conheci pessoas e fui me desenvolvendo na area, tanto como pessoa como profissional, amo desenhar e tenho um projeto pra uma HQ rs, isso é um pouco sobre min!, caso queira me conhecer melhor se conecte comigo (sou bem acessivel), ou marque uma entrevista kkk, vamos conversar ?! será um prazer.
 
-
-
 ### 🚀 **Minha jornada** 
 
 Desenvolvedor Back-End com foco em .NET e C#, experiência em APIs RESTful, microsserviços e integrações. Atualmente atuando na SuperGeeks como responsável pelo desenvolvimento de sistemas e automações internas. Sólido domínio em .NET Core, C#, Azure DevOps e bancos de dados relacionais, com vivência em projetos de cloud, automação e arquitetura orientada a serviços. Familiaridade também com Python (Django) e front-end (React, Expo). Motivado a aplicar soluções escaláveis e inovadoras em ambientes corporativos globais
 
-
-
 # 💻 Habilidades e Expertise
 
-
-
 ### 🔧 Linguagens de programação
-
-
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -38,15 +27,9 @@ Desenvolvedor Back-End com foco em .NET e C#, experiência em APIs RESTful, micr
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-
 # 📡 Links 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaellealeuzebio/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaphaelLealEuzebio)
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](raphaelndub@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaellealeuzebio/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaphaelLealEuzebio) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](raphaelndub@gmail.com)
 
 
 # 📈 Github Stats
