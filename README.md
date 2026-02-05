@@ -34,6 +34,8 @@ Desenvolvedor Back-End com foco em .NET e C#, experiência em APIs RESTful, micr
 
 # 📈 GitHub Stats & 📊 Top Languages
 
-| Stats | Top Languages |
-|-------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelLealEuzebio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLealEuzebio&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) |
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphaelLealEuzebio&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphaelLealEuzebio&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaphaelLealEuzebio&theme=github_dark)
+
